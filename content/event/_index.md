@@ -2,7 +2,7 @@
 title: Recent & Upcoming Talks
 cms_exclude: true
 
- View.
+View.
 #   1 = List
 #   2 = Compact
 #   3 = Card
